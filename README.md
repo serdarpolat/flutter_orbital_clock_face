@@ -1,6 +1,6 @@
 # orbital_clock_face
-
-A new Flutter project.
+# Screen
+<img src="scr.jpg" />
 
 ## Getting Started
 
