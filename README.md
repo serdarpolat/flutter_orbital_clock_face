@@ -1,6 +1,6 @@
 # orbital_clock_face
 # Screen
-<img src="scr.jpg" />
+<img src="clock.gif" />
 
 ## Getting Started
 
